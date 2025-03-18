@@ -1,4 +1,4 @@
-# Airport-Seat-Booking-GUI
+# Sky Reserve
 Description: This is a software application that simulates the process of booking seats on an airplane. This simulator is typically used for educational purposes to understand the fundamental concepts of programming, object-oriented design, and data structures. In this project, I tackled may different instances, such as:
 
 Add a new passenger
